@@ -2,9 +2,8 @@
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Yota02&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yota02&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yota02&show_icons=true&theme=dark)](https://github.com/Yota02/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yota02&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Yota02/Yota02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
