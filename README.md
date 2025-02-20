@@ -5,11 +5,12 @@
 
 🎯 Objectif : Rejoindre l'industrie du spatial.
 
-## 🛠️ Technologies & Outils
-🔹 Langages : Java, Python, PHP, JavaScript, SQL, PL/SQL, HTML, CSS
-🔹 Frameworks & Librairies : Vue.js, Pandas, Django
-🔹 Base de données : SQL, PL/SQL
-🔹 Outils : GitHub, GitLab
+## 🛠️ Technologies & Outils  
+
+🔹 **Langages** :  Java, Python, PHP, JavaScript, SQL, PL/SQL, HTML, CSS  
+🔹 **Frameworks & Librairies** :  Vue.js, Pandas, Django, TensorFlow, Pythorch  
+🔹 **Base de données** :  SQL, PL/SQL  
+🔹 **Outils** :  GitHub, GitLab
 
 ## 📈 Projets & Contributions
 Retrouvez mes projets et contributions sur mes dépôts GitHub !
