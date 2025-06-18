@@ -1,19 +1,29 @@
-## Hi there 👋
+## Salut 👋
 
-## 💻 À propos de moi
-Étudiant en BUT Informatique, passionné par les sciences et l'informatique. Je me spécialise dans la création d'application logiciel, et le developpement d'IA.
+---
 
-🎯 Objectif : Rejoindre l'industrie du spatial.
+## À Propos de Moi
 
-## 🛠️ Technologies & Outils  
+Actuellement étudiant en **BUT Informatique**, je suis un passionné des sciences et de l'informatique. Je me spécialise dans le développement d'applications logicielles et l'intelligence artificielle.
 
-🔹 - **Langages** :  Java, Python, PHP, HTML, CSS, JavaScript, SQL, PL/SQL
-🔹 - **Frameworks & Librairies** :  Vue.js, Symfony/Laravel, Pandas, Django, TensorFlow, Pytorch
-🔹 - **Base de données** :  SQL, PL/SQL, MySQL, Oracle, NoSQL, Postgre
-🔹 - **Outils** :  GitHub, GitLab
+**Mon objectif** : Contribuer à l'industrie du spatial.
 
-## 📈 Projets & Contributions
-Retrouvez mes projets et contributions sur mes dépôts GitHub !
+---
+
+## Compétences Techniques
+
+Voici les technologies et outils que je maîtrise :
+
+* **Langages** : Java, Python, PHP, HTML, CSS, JavaScript, SQL, PL/SQL
+* **Frameworks & Librairies** : Vue.js, Symfony/Laravel, Pandas, Django, TensorFlow, PyTorch
+* **Bases de Données** : SQL, PL/SQL, MySQL, Oracle, NoSQL, PostgreSQL
+* **Outils** : GitHub, GitLab
+
+---
+
+## Mes Projets & Contributions
+
+Découvrez mes réalisations et contributions sur mes dépôts GitHub !
 
 [![Les Stats GitHub d'Alexis Michaux-Kinet](https://github-readme-stats.vercel.app/api?username=Yota02&show_icons=true&theme=dark&cache_seconds=1800)](https://github.com/Yota02/github-readme-stats)
 
