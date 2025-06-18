@@ -7,10 +7,10 @@
 
 ## 🛠️ Technologies & Outils  
 
-🔹 **Langages** :  Java, Python, PHP, HTML, CSS, JavaScript, SQL, PL/SQL
-🔹 **Frameworks & Librairies** :  Vue.js, Symfony/Laravel, Pandas, Django, TensorFlow, Pytorch
-🔹 **Base de données** :  SQL, PL/SQL, MySQL, Oracle, NoSQL, Postgre
-🔹 **Outils** :  GitHub, GitLab
+🔹 - **Langages** :  Java, Python, PHP, HTML, CSS, JavaScript, SQL, PL/SQL
+🔹 - **Frameworks & Librairies** :  Vue.js, Symfony/Laravel, Pandas, Django, TensorFlow, Pytorch
+🔹 - **Base de données** :  SQL, PL/SQL, MySQL, Oracle, NoSQL, Postgre
+🔹 - **Outils** :  GitHub, GitLab
 
 ## 📈 Projets & Contributions
 Retrouvez mes projets et contributions sur mes dépôts GitHub !
